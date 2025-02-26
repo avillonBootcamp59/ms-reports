@@ -8,7 +8,7 @@
 	<groupId>java.com.proyecto1</groupId>
 	<artifactId>ms-reports</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ms-transactions</name>
+	<name>ms-reports</name>
 	<description>Microservicio para la gestión de transacciones con Spring Boot</description>
 
 	<properties>
